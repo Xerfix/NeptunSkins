@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Krita: https://krita.org -->
+
+<svg
+   width="16px"
+   height="16px"
+   viewBox="0 0 2 2"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="options.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="50.875"
+     inkscape:cx="7.990172"
+     inkscape:cy="8.009828"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <defs
+     id="defs38" />
+  <path
+     id="shape0"
+     fill="#b2b2b2"
+     fill-rule="evenodd"
+     d="M0 0.12C0 0, 0.1 0, 0.12 0L1.88 0 C2 0, 2 0.1, 2 0.12 L2 1.88 C 2 1.9, 2 2, 1.88 2 L0.12 2 C0 2, 0 1.9, 0 1.88Z"
+     inkscape:label="shape0"
+     style="fill:#fa0411;fill-opacity:1" />
+  <rect
+     id="shape1"
+     transform="translate(0.875, 0.5)"
+     fill="#ffffff"
+     fill-rule="evenodd"
+     stroke="#b2b2b2"
+     stroke-width="0"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     width="0.25"
+     height="1" />
+  <rect
+     id="shape2"
+     transform="translate(0.5, 0.875) rotate(90 0.5 0.5)"
+     fill="#ffffff"
+     fill-rule="evenodd"
+     stroke="#b2b2b2"
+     stroke-width="0"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     width="0.25"
+     height="1" />
+</svg>

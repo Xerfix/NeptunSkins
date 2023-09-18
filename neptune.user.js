@@ -13,9 +13,9 @@
 // @grant          none
 // @version        2.0.1
 // @author         --
-// @icon           https://balint66.github.io/NeptunSkins/repo_assets/icon.webp
+// @icon           https://xerfix.github.io/NeptunSkins/repo_assets/icon.webp
 // @description    11/24/2020, 3:09:00 PM
-// @downloadURL    https://raw.githubusercontent.com/Balint66/NeptunSkins/master/neptune.user.js
+// @downloadURL    https://raw.githubusercontent.com/xerfix/NeptunSkins/master/neptune.user.js
 // ==/UserScript==
 
 const $ = window.jQuery;
@@ -56,8 +56,8 @@ var arrow_right = $("#mainfunctionarrow")[0];
 var crosses = $('[src$="16_ghb_close.png"]');
 var refreshers = $('[src$="16_ghb_refresh.png"]');
 
-const base_url = "https://Balint66.github.io/NeptunSkins/";
-const skins = ["Neptune", "Yotsuba", "Menhera-dark", "Menhera-light", "PinkPanther", "Lain"];
+const base_url = "https://xerfix.github.io/NeptunSkins/";
+const skins = ["Neptune", "Yotsuba", "Menhera-dark", "Menhera-light", "PinkPanther", "Lain","Initial_N","NeptunGenesisEvangelion"];
 
 var commoncss = document.createElement("link");
 commoncss.rel = "stylesheet";
