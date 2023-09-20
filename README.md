@@ -18,7 +18,7 @@ Próbálunk minél egyszerűbb és modurálisabb témákat írni, hogy bárki k�
 
 ### Telepítés
 
-Ugyanúgy, mint bármilyen más userscriptet: [telepítés](https://raw.githubusercontent.com/Balint66/NeptunSkins/master/neptune.user.js)
+Ugyanúgy, mint bármilyen más userscriptet: [telepítés](https://raw.githubusercontent.com/xerfix/NeptunSkins/master/neptune.user.js)
 
 Ha még nincs userscript kezelőd, tudom ajánlani [ezt a nyíltforráskódú bővítmányt](https://violentmonkey.github.io/get-it/).
 
