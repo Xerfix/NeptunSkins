@@ -1,10 +1,10 @@
 :root
 {
-    --link-color: #d6bdff;
-    --main-color: #4c396b;
-    --background-color: #1c1828;
+    --link-color: #B60000;
+    --main-color: #373737;
+    --background-color: #292929;
     --main-fontcolor: whitesmoke;
-    --secondary-background-color: #4c2a6a;
+    --secondary-background-color: #6C2B2B;
     --secondary-fontcolor: #eee;
     --dark-font-color : var(--background-color);
     --ovarlay-color :#222;
@@ -333,13 +333,13 @@ a, a:hover {
 }
 
 .main_header_l {
-    background-image: url(neptun_menhera.png) !important;
+    background-image: url(Initial_N.png) !important;
     background-repeat: no-repeat;
     background-position: 50% 0;
 }
 
 .main_header_r_table_skin {
-    background: url(menhera_night.webp) !important;
+    background: url(ae86_trueno.png) !important;
     background-size: contain !important;
     background-repeat: no-repeat !important;
     margin: 30px;
