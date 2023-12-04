@@ -15,7 +15,7 @@ body * {
 }
 
 /* ---- fonts ---- */
-ul.menu, li.menu-item
+ul.menu li.menu-item
 {
     color: var(--main-fontcolor);
 	
@@ -321,9 +321,9 @@ a, a:hover {
     border: none;
 }
 
-.function_table * {
-    /*! border: none; */
-}
+/*.function_table * {
+    /*! border: none;
+}*/
 
 .langskinpartially {
     right: 0;
@@ -449,5 +449,5 @@ table.table_body thead tr th.header:first-child {
 input
 {
     background-color: var(--link-color) !important;
-    color: var(--dark-font-color) !important;
+    color: var(--main-fontcolor) !important;
 }
