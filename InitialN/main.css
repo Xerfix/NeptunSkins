@@ -1,7 +1,7 @@
 :root
 {
     --link-color: #B60000;
-    --main-color: whitesmoke;
+    --main-color: #373737;
     --background-color: #292929;
     --main-fontcolor: whitesmoke;
     --secondary-background-color: #6C2B2B;
@@ -222,6 +222,10 @@ ul.menu li.menu-item {
     border: none;
 	font-family: "Verdana";
 	padding: 2px;
+}
+
+li.menu-item:hover{
+	color: var(--main-fontcolor)!important;
 }
 
 .FunctionHeaderItem {
